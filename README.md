@@ -4,6 +4,7 @@
 [![Currículo Online](https://img.shields.io/badge/CV%20Online-HTML-green?logo=google-chrome)](https://magocode30.github.io/curriculum/)
 
 Sou apaixonado por tecnologia e estou em transição para o desenvolvimento de software.
+**O meu objetivo é tornar-me um programador competente, capaz de criar soluções eficazes e de crescer continuamente tanto a nível técnico como pessoal.**
 
 - 📍 Braga, Portugal
 - 💻 Atualmente a aprender e trabalhar com: **Kotlin, SQL, Laravel, JavaScript, HTML/CSS, Git, C#**
