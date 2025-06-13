@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Sou o Luís Mago
 
-<!--
-**MagoCode30/magocode30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luismago--dev-blue?logo=linkedin)](https://www.linkedin.com/in/luismago-dev/)
+[![Currículo Online](https://img.shields.io/badge/CV%20Online-HTML-green?logo=google-chrome)](https://magocode30.github.io/curriculum/)
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou em transição para o desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Braga, Portugal
+- 💻 Atualmente a aprender e trabalhar com: **Kotlin, SQL, Laravel, JavaScript, HTML/CSS, Git, C#**
+- 🧑‍🎓 Curso Software Developer @ Cesae Digital (2024-2025)
+
+**Competências:**
+- Trabalho em equipa | Resiliência | Comunicação | Aprendizagem rápida
+
+**Idiomas:** 🇪🇸 Espanhol (nativo), 🇵🇹 Português (C2), 🇬🇧 Inglês (B1)
+
+---
+
+## 🌟 Projetos em Destaque
+
+- [SignatureCars](https://github.com/magocode30/signaturecars) – Plataforma de gestão de aluguer de carros feita em Laravel
+- [Currículo em HTML](https://magocode30.github.io/curriculum/)
+
+---
+
+> 📬 Contacto: lapm1102@gmail.com  
+> [LinkedIn](https://www.linkedin.com/in/luismago-dev/)
+
+
