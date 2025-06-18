@@ -20,6 +20,7 @@ Sou apaixonado por tecnologia e estou em transição para o desenvolvimento de s
 ## 🌟 Projetos em Destaque
 
 - [SignatureCars](https://github.com/magocode30/signaturecars) – Plataforma de gestão de aluguer de carros feita em Laravel
+- [CesaeDigitalApp](https://github.com/MagoCode30/CesaeDigitalApp) - App Android nativa desenvolvida para promover e facilitar o acesso à oferta formativa, projetos, serviços e contactos do CESAE Digital.
 - [Currículo em HTML](https://magocode30.github.io/curriculum/)
 
 ---
