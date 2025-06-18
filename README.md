@@ -1,4 +1,4 @@
-# Portfolio Luis Mago
+# Portfolio Técnico 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luismago--dev-blue?logo=linkedin)](https://www.linkedin.com/in/luismago-dev/)
 [![Currículo Online](https://img.shields.io/badge/CV%20Online-HTML-green?logo=google-chrome)](https://magocode30.github.io/curriculum/)
